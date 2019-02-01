@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\Davesh\\.android\\build-cache\\6c6b5958d25118d1cbef2dd912ef4d7dd4705d63\\output\\res\\values-w600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 63,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\Davesh\\.android\\build-cache\\6c6b5958d25118d1cbef2dd912ef4d7dd4705d63\\output\\res\\values-w600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 54,
+                        "endOffset": 393
+                    }
+                }
+            }
+        ]
+    }
+]

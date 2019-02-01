@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:13:9-53
+application
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:16:5-64:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Davesh\.android\build-cache\6c6b5958d25118d1cbef2dd912ef4d7dd4705d63\output\AndroidManifest.xml:22:5-20
+MERGED from [com.echo:holographlibrary:1.0] C:\Users\Davesh\.android\build-cache\e90712f032be1c7f72aaefa82e79106668402f3d\output\AndroidManifest.xml:10:5-15:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Davesh\.android\build-cache\fb4e3986c3845b4754f7901754a1bed0e8b8f50e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Davesh\.android\build-cache\c6741a89e85ce7ec78c336a6a9be52332a7186ea\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:18:9-43
+		REJECTED from [com.echo:holographlibrary:1.0] C:\Users\Davesh\.android\build-cache\e90712f032be1c7f72aaefa82e79106668402f3d\output\AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:20:9-40
+	tools:replace
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:21:9-37
+activity#example.naoki.ble_myo.MainActivity
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:25:13-45
+	android:id
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:29:27-74
+activity#example.naoki.ble_myo.ListActivity
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:32:9-34:59
+	android:label
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:33:13-41
+activity#example.naoki.ble_myo.DisplayMessageActivity
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:parentActivityName
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:38:13-55
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:37:13-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:41:13-43:49
+	android:value
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:43:17-46
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:42:17-63
+activity#example.naoki.ble_myo.NotificationActivity
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:45:9-55:20
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:45:19-55
+intent-filter#android.intent.category.DEFAULT+notification_filter
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:46:13-54:29
+action#notification_filter
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:47:17-62
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:47:25-59
+category#android.intent.category.DEFAULT
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:53:27-73
+activity#example.naoki.ble_myo.Contacts
+ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:56:9-63:20
+	android:name
+		ADDED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml:56:19-43
+uses-sdk
+INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Davesh\.android\build-cache\6c6b5958d25118d1cbef2dd912ef4d7dd4705d63\output\AndroidManifest.xml:20:5-43
+MERGED from [com.echo:holographlibrary:1.0] C:\Users\Davesh\.android\build-cache\e90712f032be1c7f72aaefa82e79106668402f3d\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Davesh\.android\build-cache\fb4e3986c3845b4754f7901754a1bed0e8b8f50e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Davesh\.android\build-cache\c6741a89e85ce7ec78c336a6a9be52332a7186ea\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\src\main\AndroidManifest.xml

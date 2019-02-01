@@ -1,0 +1,4 @@
+#Sat Oct 27 14:24:15 EDT 2018
+base.0=D\:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

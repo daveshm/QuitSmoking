@@ -1,0 +1,7 @@
+#Sat Oct 27 14:24:16 EDT 2018
+base.0=D\:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_50261491b3d76db44256e0cc6b5d26ff1655d7e7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_18bc5012782947fc3884f1135f53f35759d2cb0c\\classes.dex
+base.1=D\:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_18bc5012782947fc3884f1135f53f35759d2cb0c
+file.0=D\:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_50261491b3d76db44256e0cc6b5d26ff1655d7e7\\classes.dex

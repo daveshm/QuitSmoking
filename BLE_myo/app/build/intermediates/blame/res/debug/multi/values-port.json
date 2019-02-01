@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Freshman Year\\myo_AndoridEMG-master\\BLE_myo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Davesh\\.android\\build-cache\\6c6b5958d25118d1cbef2dd912ef4d7dd4705d63\\output\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 55,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

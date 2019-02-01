@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50261491b3d76db44256e0cc6b5d26ff1655d7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davesh\.android\build-cache\fb4e3986c3845b4754f7901754a1bed0e8b8f50e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00731f6804fbcf0dafd475133e7580df85243be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_80f931b3b46d1910cf722fa387aa37f2729c9eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8e78557753360e229b3b9be5dd5cd2a3a3df77b">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_18bc5012782947fc3884f1135f53f35759d2cb0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davesh\.android\build-cache\fb4e3986c3845b4754f7901754a1bed0e8b8f50e\output\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_23158c61fb81e74d234ba3492437248ab14ef74a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davesh\.android\build-cache\6c6b5958d25118d1cbef2dd912ef4d7dd4705d63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbb34e411828e8c661af8c0f4eb0d1dd32224abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Davesh\.android\build-cache\e90712f032be1c7f72aaefa82e79106668402f3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2940df18c83be014a53f7ab34dd2304c79117c00">
+        <dex dex="D:\Freshman Year\myo_AndoridEMG-master\BLE_myo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_210349e8a36914d0358b9c552326096e304b8a76\classes.dex" />
+    </item>
+
+</items>
